@@ -1,4 +1,4 @@
-# OnJava8-PDF-Zh
+# OnJava8-PDF
 《On Java 8》中文版，又名《Java编程思想》 第5版 PDF版
 
 文件 《On-Java-8_Zh.pdf》 中的内容来自这个项目：
