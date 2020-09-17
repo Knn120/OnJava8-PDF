@@ -19,9 +19,15 @@ https://github.com/BruceEckel/OnJava8-Examples
     查看该文档中是否有latex的特殊符号,需要用转义符替换
   3. There is no ∂ (U+2202)
     删除∂符号
+  4. Note with key '4' defined at line 5186 column 1 but not used
+    文档中只写了脚注而没有在任何地方加注(即没有使用该脚注)
+  5. Text line contains an invalid character.l.2207 CompletableFuture 先完成:^^V
+    在文档中搜索 先完成 删除其后面的特殊符号
+  6. There is no ↩ (U+21A9) in font [lmroman10-regular]:mapping=tex-text;
+    删除文档中 ↩ 符号
     
     
-    LaTeX 基本的公式符号命令https://blog.csdn.net/YhL_Leo/article/details/50240237?utm_source=blogxgwz7
+  LaTeX 基本的公式符号命令https://blog.csdn.net/YhL_Leo/article/details/50240237?utm_source=blogxgwz7
   
   
   
